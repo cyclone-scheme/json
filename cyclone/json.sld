@@ -1,5 +1,4 @@
-(define-library 
-  (cyclone json)
+(define-library (cyclone json)
     (export json-write
 	    json-read
 	    json->scm

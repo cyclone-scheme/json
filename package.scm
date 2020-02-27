@@ -8,7 +8,7 @@
   (tags "language extesions")
   (docs "https://github.com/cyclone-scheme/cyclone-winds/wiki/json")
   (test "test.scm")
-  (dependencies (cyclone packrat))
+  (dependencies ((cyclone packrat)))
   (test-dependencies ())
   (foreign-dependencies ())
   (library
