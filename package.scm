@@ -1,6 +1,6 @@
 (package
   (name json)
-  (version 0.1)
+  (version "0.1.0")
   (license "BSD")
   (authors "LShift Ltd. <query at lshift dot net> ,Tony Garnock-Jones <tonyg at kcbbs dot gen dot nz>")
   (maintainers "Arthur Maciel <arthurmaciel at gmail dot com>")
